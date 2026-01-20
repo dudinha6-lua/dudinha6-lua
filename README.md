@@ -1,16 +1,21 @@
-## Hi there 👋
+## 👋 Olá, eu sou a Dudinha
 
-<!--
-**dudinha6-lua/dudinha6-lua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de programação  
+💻 Foco em desenvolvimento de software e interfaces interativas  
+🏠 Interesse em trabalho remoto (home office)
 
-Here are some ideas to get you started:
+### 🚀 Sobre mim
+Sou estudante de programação com experiência em projetos práticos, focada em lógica de programação, organização de código e criação de interfaces interativas. Busco oportunidades para aprender, evoluir tecnicamente e contribuir com soluções reais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tecnologias
+- HTML, CSS, JavaScript
+- Lua (Roblox Studio)
+- Git e GitHub
+- Noções de UX/UI
+- React (em aprendizado)
+
+### 📌 Projetos em destaque
+- Sistema de Customização e Loja Virtual (Roblox)
+- Projetos de interfaces e lógica de programação
+
+📫 Contato: seuemail@gmail.com
