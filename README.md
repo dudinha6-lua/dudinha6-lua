@@ -18,4 +18,4 @@ Sou estudante de programação com experiência em projetos práticos, focada em
 - Sistema de Customização e Loja Virtual (Roblox)
 - Projetos de interfaces e lógica de programação
 
-📫 Contato: seuemail@gmail.com
+📫 Contato: eduarda.rischtter2007@gmail.com
